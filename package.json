@@ -1,0 +1,28 @@
+{
+  "name": "spark-compiler",
+  "version": "1.0.0",
+  "description": "Simple tool to compile C / C++ projects",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Phoeenix05/spark-compiler.git"
+  },
+  "author": "Anton Fredriksson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phoeenix05/spark-compiler/issues"
+  },
+  "homepage": "https://github.com/Phoeenix05/spark-compiler#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "figlet": "^1.5.2",
+    "glob": "^8.0.3",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.3",
+    "nanospinner": "^1.1.0"
+  }
+}
